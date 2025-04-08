@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanusftgit" alt="sanusftgit" /></a> </p>
 
-- 🌱 I’m currently learning **software developercourse NVQ(LVL 4)**
+- 🌱 I’ve completed <b>Software Developer course NVQ(LVL 4)</b> and am currently in the middle of my <b>internship training</b>.<br>
 
 - 📫 How to reach me **sanujan5238@gmail.com**
 

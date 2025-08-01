@@ -9,7 +9,8 @@
 - 🌱 I’ve completed <b>Software Developer course NVQ(LVL 4)</b> and Finished my <b>internship training at<u> Loncey Tech [pvt] ltd</u></b>.<br>
 
 - 📫 How to reach me **sanujan5238@gmail.com**
-- 🍱 bento.me/sanujan
+- 🍱 <a href="https://bento.me/sanujan" target="_blank">bento.me/sanujan</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
